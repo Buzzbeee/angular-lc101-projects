@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+    width: fit-content;
+}
+
+.bor {
+    text-align: center;
+    width: fit-content;
+    border: 1px solid black;
+    padding: 4px
+}

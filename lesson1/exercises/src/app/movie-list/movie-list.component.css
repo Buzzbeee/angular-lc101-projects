@@ -1,0 +1,15 @@
+.movies h3 {
+    color: aqua;
+    text-align: center;
+}
+
+.movies ol {
+    color: magenta;
+    font-size: large;
+}
+
+.movies {
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+}

@@ -1,0 +1,17 @@
+
+.chores {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: maroon;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.chores h3 {
+     text-decoration: underline;
+}
+
+.chores ul {
+    font-style: italic;
+}

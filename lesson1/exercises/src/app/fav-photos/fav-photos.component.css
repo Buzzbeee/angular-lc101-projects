@@ -3,9 +3,12 @@ h3 {
 }
 
 img {
-
+   width: 100px;
 }
 
 .photos {
    text-align: center;
+   border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
 }
